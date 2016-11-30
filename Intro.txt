@@ -1,0 +1,4 @@
+*Supervised Learning: Predicting or estimating an output based on one or more inputs.
+
+*Unsupervised Learning: There are inputs but no supervising output. Learn the relationships from data.
+
