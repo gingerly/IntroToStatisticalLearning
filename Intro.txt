@@ -2,3 +2,17 @@
 
 *Unsupervised Learning: There are inputs but no supervising output. Learn the relationships from data.
 
+*Predict outcome(ForEg Wage) from multiple factors like age, education, year.
+
+*Regression Probelem: Predict a continuous or quantitative output value.
+
+*Classification Problem; Categorical. Eg: Smarket data, predicting index falls in up bucket or down bucket.
+
+*Clustering Problem: Example: Customers that are similar to each other.
+Principal components each dim might correpond to one cluster.
+
+*Least Squares aka Linear Regression.
+
+*No single approach will perform well in all possible applications. 
+
+
