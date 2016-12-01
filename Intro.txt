@@ -15,4 +15,6 @@ Principal components each dim might correpond to one cluster.
 
 *No single approach will perform well in all possible applications. 
 
+*Use cross-validationa and bootstrap to choose the best method for given application.
+
 
