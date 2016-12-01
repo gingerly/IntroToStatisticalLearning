@@ -1,0 +1,11 @@
+*Example: Develop an accurate model that can be used to predict sales on the basis of one or more media budgets.
+Advertising budgets are the input variables/predictors/independent variables/features/variables. X_1, X_2 ...
+Sales is the output variable/response/dependent variable.Y
+
+* Y = f(X) + E.
+- Set of approaches for estimating f is called statistical learning.
+
+* Why Estimate f?
+Prediction and Inference.
+
+*Prediction is used when Xs are available but Y cannot be easily obtained.
